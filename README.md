@@ -6,7 +6,7 @@
 * 📒 Atualmente estou estudando sobre **Back-end e Front-end**;
 * 🌌 Hobby's: **Gosto de trabalhar nas horas vagas com Design Gráfico, faço algumas músicas pra mim mesmo :D, <br>pensando em fazer faculdade de direito**
 
-<h3 align="center">Minha Experiência:</h3>
+<h3 align="center">Minha Experiências:</h3>
 
 <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" style="width:70px;"/> <img src="https://www.standardweb.com.br/dist/photoshop.png?9a3475010b1c0b44bf92367b646fb550" style="width:70px;"/> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="width:60px;"/> <img src="https://camo.githubusercontent.com/36dddbf2f91241b3bf4b31af97c6fde92f911ba621c5dae84cd3f6cdff6f4d0c/68747470733a2f2f6b6f79612e67672f6173736574732f696d672f646973636f72646a732d6c6f676f2e706e67" style="width:70px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" style="width:70px;"/>
 
