@@ -88,8 +88,8 @@
 <ul>
 
 <li>
-<a href="https://instagram.com/garcia_nosbn" target="_blank">
-<img src="https://img.shields.io/badge/instagram:%20%20garcia_nosbn-%eeee.svg?color=ef426f&style=for-the-badge&logo=instagram&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://instagram.com/erickk_garcia" target="_blank">
+<img src="https://img.shields.io/badge/instagram:%20%20erickk_garcia-%eeee.svg?color=ef426f&style=for-the-badge&logo=instagram&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
